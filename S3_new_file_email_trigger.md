@@ -77,6 +77,8 @@ Please change the following details in above code
 
 * Select S3 as source
 
+* For Event type: Select `All object create events` for any new files being uploaded, pushed or copied form other folder to this folder
+
 * Provide the correct path (of Not processed folder) to the bucket field 
 
 * Select Add
