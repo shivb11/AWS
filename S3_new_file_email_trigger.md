@@ -92,3 +92,8 @@ Click on Monitor tab in the lambda function and it will procide all the cloudwat
 
 # Error log
 In the Monitor tab, click the `View Cloudwatch logs` to see the detail log of the failed attempt and will provide the respective errors 
+
+# Source:
+* [How To: Send Email Using Lambda & AWS SES](https://www.youtube.com/watch?v=o7l9JY2JeoE)  
+* [AWS Knowledge Centre](https://repost.aws/knowledge-center/lambda-send-email-ses)
+* [AWS S3 File Upload + Lambda Trigger](https://www.youtube.com/watch?v=OJrxbr9ebDE)
